@@ -1,0 +1,75 @@
+{
+    "status": "success",
+    "data": {
+        "userId": "wAgfBixaHv8udTY8q",
+        "authToken": "yA2ff2lLuWRpG_GPzYWWgpHwDATei3lJ4LAQFae8thr",
+        "me": {
+            "_id": "wAgfBixaHv8udTY8q",
+            "services": {
+                "password": {
+                    "bcrypt": "$2b$10$fXjXFmw2AZ.RtcEjJ2YXCOG8NQLN2lZyfIHhf3JD1CAKIJqAuK6QK"
+                },
+                "email2fa": {
+                    "enabled": true
+                }
+            },
+            "emails": [
+                {
+                    "address": "guilherme-gfs@hotmail.com",
+                    "verified": false
+                }
+            ],
+            "roles": [
+                "user",
+                "admin"
+            ],
+            "status": "away",
+            "active": true,
+            "_updatedAt": "2024-04-13T05:06:15.171Z",
+            "name": "Guilherme Sarmento",
+            "statusConnection": "away",
+            "username": "gui.smt",
+            "utcOffset": -3,
+            "settings": {
+                "profile": {},
+                "preferences": {
+                    "enableAutoAway": true,
+                    "idleTimeLimit": 300,
+                    "desktopNotificationRequireInteraction": false,
+                    "desktopNotifications": "all",
+                    "pushNotifications": "all",
+                    "unreadAlert": true,
+                    "useEmojis": true,
+                    "convertAsciiEmoji": true,
+                    "autoImageLoad": true,
+                    "saveMobileBandwidth": true,
+                    "collapseMediaByDefault": false,
+                    "hideUsernames": false,
+                    "hideRoles": false,
+                    "hideFlexTab": false,
+                    "displayAvatars": true,
+                    "sidebarGroupByType": true,
+                    "themeAppearence": "auto",
+                    "sidebarViewMode": "medium",
+                    "sidebarDisplayAvatar": true,
+                    "sidebarShowUnread": false,
+                    "sidebarSortby": "activity",
+                    "showThreadsInMainChannel": false,
+                    "alsoSendThreadToChannel": "default",
+                    "sidebarShowFavorites": true,
+                    "sendOnEnter": "normal",
+                    "emailNotificationMode": "mentions",
+                    "newRoomNotification": "door",
+                    "newMessageNotification": "chime",
+                    "muteFocusedConversations": true,
+                    "notificationsSoundVolume": 100,
+                    "omnichannelTranscriptEmail": false,
+                    "notifyCalendarEvents": true,
+                    "enableMobileRinging": true,
+                    "omnichannelTranscriptPDF": false
+                }
+            },
+            "avatarUrl": "http://localhost:3000/avatar/gui.smt"
+        }
+    }
+}

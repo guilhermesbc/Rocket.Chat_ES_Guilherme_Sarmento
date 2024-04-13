@@ -1,0 +1,26 @@
+{
+    "user": {
+        "_id": "v6Ta8knuwnzu4eh3P",
+        "createdAt": "2024-04-13T05:10:14.388Z",
+        "username": "rocket.teste",
+        "emails": [
+            {
+                "address": "rocketteste@gmail.com",
+                "verified": false
+            }
+        ],
+        "type": "user",
+        "roles": [
+            "user"
+        ],
+        "status": "offline",
+        "active": true,
+        "_updatedAt": "2024-04-13T05:10:14.476Z",
+        "__rooms": [
+            "GENERAL"
+        ],
+        "name": "Rocket Teste",
+        "settings": {}
+    },
+    "success": true
+}

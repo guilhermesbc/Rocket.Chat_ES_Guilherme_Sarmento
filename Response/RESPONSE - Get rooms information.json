@@ -1,0 +1,19 @@
+{
+    "room": {
+        "_id": "GENERAL",
+        "ts": "2024-04-12T16:37:26.234Z",
+        "t": "c",
+        "name": "general",
+        "usernames": [],
+        "msgs": 2,
+        "usersCount": 2,
+        "_updatedAt": "2024-04-13T05:10:14.441Z",
+        "u": {
+            "_id": "rocket.cat",
+            "username": "rocket.cat",
+            "name": "Rocket.Cat"
+        },
+        "default": true
+    },
+    "success": true
+}
