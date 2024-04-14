@@ -1,13 +1,13 @@
 {
     "room": {
         "_id": "GENERAL",
-        "ts": "2024-04-12T16:37:26.234Z",
+        "ts": "2024-04-14T07:45:20.257Z",
         "t": "c",
         "name": "general",
         "usernames": [],
         "msgs": 2,
         "usersCount": 2,
-        "_updatedAt": "2024-04-13T05:10:14.441Z",
+        "_updatedAt": "2024-04-14T07:56:59.533Z",
         "u": {
             "_id": "rocket.cat",
             "username": "rocket.cat",

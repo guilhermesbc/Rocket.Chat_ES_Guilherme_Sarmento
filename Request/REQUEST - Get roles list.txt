@@ -1,5 +1,5 @@
-curl --location 'http://localhost:3000/api/v1/roles.list' \
---header 'X-Auth-Token: yA2ff2lLuWRpG_GPzYWWgpHwDATei3lJ4LAQFae8thr' \
---header 'X-User-Id: wAgfBixaHv8udTY8q' \
+curl --location 'https://rocketchat.guisarmento.com/api/v1/roles.list' \
+--header 'X-Auth-Token: CMFokDhtBaOSrVvrZ3AjXZwfvVzGwQe0D3qx6LsvXua' \
+--header 'X-User-Id: At8z6J5PAgeofroJF' \
 --header 'Content-Type: application/json' \
 --data ''

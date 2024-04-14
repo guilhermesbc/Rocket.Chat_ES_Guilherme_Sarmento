@@ -1,3 +1,6 @@
-curl --location 'http://localhost:3000/api/v1/login' \
+curl --location 'https://rocketchat.guisarmento.com/api/v1/login' \
 --header 'Content-Type: application/json' \
---data-raw '{"user": "guilherme-gfs@hotmail.com", "password": "v5x3fpzz"}'
+--data-raw '{
+		"user": "guilherme-gfs@hotmail.com",
+		"password": "v5x3fpzz"
+	}'

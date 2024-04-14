@@ -1,13 +1,13 @@
 {
     "status": "success",
     "data": {
-        "userId": "wAgfBixaHv8udTY8q",
-        "authToken": "yA2ff2lLuWRpG_GPzYWWgpHwDATei3lJ4LAQFae8thr",
+        "userId": "At8z6J5PAgeofroJF",
+        "authToken": "CMFokDhtBaOSrVvrZ3AjXZwfvVzGwQe0D3qx6LsvXua",
         "me": {
-            "_id": "wAgfBixaHv8udTY8q",
+            "_id": "At8z6J5PAgeofroJF",
             "services": {
                 "password": {
-                    "bcrypt": "$2b$10$fXjXFmw2AZ.RtcEjJ2YXCOG8NQLN2lZyfIHhf3JD1CAKIJqAuK6QK"
+                    "bcrypt": "$2b$10$2mbaYENcpIiJ/EWoM6Qc7OtCGJwC09USVt59GQWvnSRbC0aIYjpMm"
                 },
                 "email2fa": {
                     "enabled": true
@@ -25,10 +25,10 @@
             ],
             "status": "away",
             "active": true,
-            "_updatedAt": "2024-04-13T05:06:15.171Z",
+            "_updatedAt": "2024-04-14T07:55:47.078Z",
             "name": "Guilherme Sarmento",
             "statusConnection": "away",
-            "username": "gui.smt",
+            "username": "guilhermesbc",
             "utcOffset": -3,
             "settings": {
                 "profile": {},
@@ -65,11 +65,10 @@
                     "notificationsSoundVolume": 100,
                     "omnichannelTranscriptEmail": false,
                     "notifyCalendarEvents": true,
-                    "enableMobileRinging": true,
-                    "omnichannelTranscriptPDF": false
+                    "enableMobileRinging": true
                 }
             },
-            "avatarUrl": "http://localhost:3000/avatar/gui.smt"
+            "avatarUrl": "http://localhost:3000/avatar/guilhermesbc"
         }
     }
 }

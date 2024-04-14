@@ -87,14 +87,6 @@
             "mandatory2fa": false,
             "name": "livechat-manager",
             "protected": true
-        },
-        {
-            "_id": "livechat-monitor",
-            "scope": "Users",
-            "description": "",
-            "mandatory2fa": false,
-            "name": "livechat-monitor",
-            "protected": true
         }
     ],
     "success": true
